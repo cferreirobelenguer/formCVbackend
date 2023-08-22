@@ -16,6 +16,6 @@ Mobile First
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 
-## The candidate data is saved in mongoDB and sent by email in table format
+## The candidate data is saved in mongoDB and sent by email
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
